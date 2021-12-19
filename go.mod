@@ -1,4 +1,4 @@
-module golang-samples/sample
+module tekinaydogdu/integer-spiral
 
 go 1.17
 

@@ -61,7 +61,7 @@ func main() {
 			}
 		}
 
-		fmt.Println("i:", i, "pos:", pos, "direction:", string(direction))
+		// fmt.Println("i:", i, "pos:", pos, "direction:", string(direction))
 
 		matrix[pos.Y][pos.X] = uint(i)
 	}
